@@ -8,8 +8,8 @@ This repository contains my solutions for the TypeScript assignment. It includes
 ## Repository Contents
 
 - `solutions.ts` – Contains the solutions to the assigned TypeScript problems.
-- `blog-1.md` – Type alias vs Interface.
-- `blog-2.md` – Access Modifiers.
+- `blog-type-vs-interface-1.md` – Type alias vs Interface.
+- `blog-access-modifiers-2.md` – Access Modifiers.
 
 ## Blog Posts
 
